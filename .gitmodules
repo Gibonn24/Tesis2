@@ -1,0 +1,8 @@
+[submodule "tesis"]
+	path = tesis
+	url = https://git.overleaf.com/69a9a5a0f2d8a222ed463db2
+	branch = main
+[submodule "paper"]
+	path = paper
+	url = https://git.overleaf.com/69a9a45639d9e6bfde664eb3
+	branch = main
